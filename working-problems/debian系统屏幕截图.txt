@@ -1,0 +1,5 @@
+1. 安装flameshot
+sudo apt-get install flameshot
+
+2. 远程终端运行
+flameshot gui
